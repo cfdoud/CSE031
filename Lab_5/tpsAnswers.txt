@@ -1,0 +1,20 @@
+Activity 1:
+1. Mars stands for MIPS Assembler and Runtime Simulator.
+2. Done
+3. Done
+4.  A. Click on the folder and file button.
+    B. Click on the wrench and screwdriver button.
+    C. To run the program, press the green play button.
+    D. No, you would have to recompile the program.
+    E. You would have to click the green play button, with the 1 on the bottom left corner.
+    F. You would have to recompile the program again.
+Activity 2: 
+1. .data is used to delare different variables, .word is used to create a single integer variable with 
+a single value, and the .text is used to have instructions follow the line. 
+2. It means branch if Equal
+3. Line 15 means that the line would j to wherever instruction is stored at that label.
+4. You head towards the execute tab and there should be a couple of checkboxes you can click to set a breakpoint.
+5. Press the green play button with the 1.
+6. To modify the contents of the register, you go click on the far right box on the compilier and click on the value you want to change.
+7. N is stored at address 0x10010000
+8. Syscall is used to read and print value and used to print the 13th fibbonacci number.

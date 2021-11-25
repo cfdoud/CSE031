@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main()	{
+int times = 0;
+int typo = 0;
+printf("1Enter the number of repetitions for the punishment phrase:\n");
+scanf("%d", times);
+printf("Enter the repetition count when you wish to introduce a typo:\n");
+while(times < 0 ){
+printf("You entered an invalid value for the number of repetitions!");
+printf("1Enter the number of repetitions for the punishment phrase:\n");
+    scanf("%d", times); 
+}
+return 0;
+}

@@ -1,0 +1,22 @@
+TPS 1
+1. 0.00400000 text and data segment is 0x10010000
+2. THe MIPS gives the line number and the BASIC reads each line as something a different that what is coded.
+3.20 bytes.
+4. 8 columns
+5.Each one is 4 bytes.
+6.m:	.word 20
+7.0x10010004
+8.str1: .asciiz "I love CSE31!" 
+9.0x10010000
+10.It is stored mismatched and out of order
+11.In order to print a string we would have to load $v0 to 4 instead of 1, which is an integer.
+12. La slaods the address of the string.
+TPS 2
+1.DONE
+2.DONE
+3.DONE
+4.DONE
+5.DONE
+6.DONE
+7.DONE
+8.DONE

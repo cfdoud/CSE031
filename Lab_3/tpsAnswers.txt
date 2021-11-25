@@ -1,0 +1,13 @@
+1.The Stack, the heap, and the static. The static stores the global variables, the stack stores the local variables, and the 
+heap stores the dynmic storage. 
+2.
+	a.Three Variables are declared.	
+	b.There are 2 pointers and pointer ptr points to variable num, and pointer handle points to pointer ptr.
+	c.Stack Memory
+	d.Heap Memory
+3.Done
+4.Done
+1.The code makes the object head which then sets ivalue = 5 and value = 3.14.
+2.Done
+3.The variables are stored very close to each other in a small group.
+

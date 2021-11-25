@@ -1,0 +1,24 @@
+1.Matt
+2.Done
+3.Done
+4.Done
+TPS activity 2.
+1.gcc -o punish punishment.c
+2.gdb start 
+3.gdb run
+4.gdb break punishment.c:(line number). Breakpoints make the program stop wherever I point it too.
+5. Type next repeatedly to bo line by line.
+6.You would just use print and the variable name.
+7.gdb continue
+8. gdb q
+Tps Activity 3
+1.4 variables and 2 pointers(px,py).
+2.x = 0, y=1, arr[0]=0, I think y would equal one because since we didn't set a value it would automatically
+ give it a value following the zero
+3.We would have to set the values of the variables to zero, including the array.
+4.printf("x-address = %p, y-address = %p \n", &x, &y);
+5.Done
+6.Done
+7.Done
+8.Yes, because it would have to default the very first address where it is zero, compared to where we declared the exact 
+location we would also need the &symbol.

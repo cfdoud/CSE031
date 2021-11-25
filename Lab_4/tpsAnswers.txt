@@ -1,0 +1,24 @@
+Section 1
+1. prints out 2
+2. I guessed it would print out 67
+3.My answer is very wrong, it printed out 44434241.
+4.It prints out 2, I am still very lost.
+5. a. The array allocates 2 arrays.
+   b.Yes, it is pointing to the same value as four_c is four_int, it just changes it to character type.
+   c.Done Char go by 4 
+6.Done
+7. Done
+8.DOne; Four_ints is counting by fours because it is a character and characters are 4 bytes.
+9.Done
+10. It basically counts the characters A,B,C,D backwards so the smallest byte goes first, so-on-so-forth; the little endian
+mystery.
+Section 2
+1. It will create an array consisting ofn = 5 pointers of size of 8 bytes each.
+2.By indexing the array; arr[i]
+3.DOne
+4. To know how large the array is.
+5.DOne
+6.Done
+7.Done
+
+

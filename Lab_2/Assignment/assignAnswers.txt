@@ -1,0 +1,5 @@
+1.Line 24 caused the error their is no & sign after the variable.
+2.By adding the &symbol to the sum variable we can address it from the read valus function.
+3.There is now address leading the values from readValues to the main function.
+4.Adding Pointer symbols in the read values function and the & symbol in the sum value called in the main function.
+

@@ -1,0 +1,28 @@
+1. Mealanie, Matt
+2. https://linuxsurvival.com/linux-more-command/
+https://www.guru99.com/unix-linux-tutorial.html
+https://cloudxlab.com/assessment/displayslide/19/create-text-file-using-nano
+3. 
+							TPS 2
+1. I am using the mac os terminal, so I just have to search up terminal in the
+search thingy.
+        a. Yes, you can.
+        b. To test more than 1 code, or have multiple terminals open and their
+        following directories.
+2.The command is ls.
+3. Just type the command, "cd" to go back ther desktop
+4. type "mkdir CSE031"
+
+							TPS 3
+1. https://www.geeksforgeeks.org/gcc-command-in-linux-with-examples/
+https://www.javatpoint.com/gcc-linux
+2.
+3. gcc main.cc
+4. I know it has compiled correctly if it gives no errors and just loads.
+5. This only produces the compiled code.
+6.It stops any linker funcitons from happening.
+7. It makes the runnable name for the code to cselab1
+8.This would only compile the code.
+9. gcc -o main main.c
+
+

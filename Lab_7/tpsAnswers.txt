@@ -1,0 +1,21 @@
+TPS Answers Lab_7
+1.Functions return values, procedures are functions that dont return anything, 
+and a method is a internal part of a class.
+2.Done
+3.DOne
+4.Line 20 is where we utilize the sum.
+5.Yes you can
+6.Line 11
+7. Error in : invalid program counter value: 0x00000000 Go: execution terminated with errors.
+8.0x00400020
+9. It changed to 0x00400028, because it had 3 more lines of code.
+10. 0x00400028
+11.We could use jal.
+12. Done
+Part 2.
+1. The asnwer is 38.
+2.It is the main function where vairalbes are declared and show how the code is supposed to run in order.
+3.Basically, the address is lost to return to main so it is couaght back into sum.
+4.Done
+5.It overwrites itself.
+6.Done

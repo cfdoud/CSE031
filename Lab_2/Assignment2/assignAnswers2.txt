@@ -1,0 +1,4 @@
+1.It is the output i expected, it connected both strings together.
+2.This is not the ouput I expected it combined strings from the last reponse. We would have to make sure there is free space so
+it would combine with the past string.
+3.The array is set for a max of 10 characters, so it would be too much for the program to combine.

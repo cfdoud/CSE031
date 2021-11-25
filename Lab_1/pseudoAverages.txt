@@ -1,0 +1,19 @@
+int integer[user input]
+int avg_even, avg_odd;
+int even_counter, odd_counder;
+while(user_integer != 0) 
+	if (intger % 2 = 0)
+	 add to avg_even
+	even_counter++
+	else
+	add the avg_odd
+	odd_counter++
+)
+even = avg_even/even_counter;
+odd = avg_odd/odd_counter;
+if (avg_even && avg_odd == =)
+	print(There is no average.)
+printf(Average of even numbers + even)
+printf(Average of odd numbers + odd)f
+
+	
